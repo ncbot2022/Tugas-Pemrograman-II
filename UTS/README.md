@@ -14,3 +14,6 @@
 - **Polimorfism** untuk navigasi aplikasi iventaris
 - **Method Berparameter** untuk navigasi aplikasi iventaris
 - **Objek Dalam Class** untuk navigasi aplikasi iventaris
+
+<h2> HASil Dari GUI (Tampilan Frontend dan backand)
+
