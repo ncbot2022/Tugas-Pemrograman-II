@@ -16,4 +16,8 @@
 - **Objek Dalam Class** untuk navigasi aplikasi iventaris
 
 <h2> HASil Dari GUI (Tampilan Frontend dan backand)
+<br>
+<h2> HASil Dari GUI (Tampilan Frontend dan backand)
+<img width="806" height="521" alt="image" src="https://github.com/user-attachments/assets/739a85ca-130d-47c0-8c7a-694f1c185311" />
+
 
