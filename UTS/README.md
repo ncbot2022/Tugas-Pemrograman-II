@@ -7,3 +7,8 @@
 - **Controls** sebagai komponen interaksi pengguna  
 - **Menus** untuk navigasi aplikasi iventaris
 
+**OOP / Oject Oriantasi Programming**
+- **Inheritance** untuk tempat menampung komponen GUI  
+- **Inheritance** sebagai komponen interaksi pengguna  
+- **Enkapsulasi** untuk navigasi aplikasi iventaris
+- **Polimorfism** untuk navigasi aplikasi iventaris
