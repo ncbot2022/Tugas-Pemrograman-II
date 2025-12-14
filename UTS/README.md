@@ -16,7 +16,7 @@
 - **Objek Dalam Class** untuk navigasi aplikasi iventaris
   
 <br><br>
-## LINK YOUTUBE PENJELSAN & DEMONSTRASI : --- On proses ---
+## LINK YOUTUBE PENJELSAN & DEMONSTRASI :       --- On proses ---
 
 <br><br>
 ## HASil Dari GUI (Tampilan Frontend dan backand)
