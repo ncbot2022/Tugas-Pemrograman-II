@@ -14,9 +14,8 @@
 - **Polimorfism** untuk navigasi aplikasi iventaris
 - **Method Berparameter** untuk navigasi aplikasi iventaris
 - **Objek Dalam Class** untuk navigasi aplikasi iventaris
-
-
-
+  
+<br><br>
 ## HASil Dari GUI (Tampilan Frontend dan backand)
 
 ### Tampilan Awal Panel Login
