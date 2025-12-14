@@ -14,7 +14,8 @@
 - **Polimorfism** untuk navigasi aplikasi iventaris
 - **Method Berparameter** untuk navigasi aplikasi iventaris
 - **Objek Dalam Class** untuk navigasi aplikasi iventaris
-
+  
+<br><br>
 ## LINK YOUTUBE PENJELSAN & DEMONSTRASI : --- On proses ---
 
 <br><br>
