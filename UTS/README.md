@@ -12,3 +12,5 @@
 - **Inheritance** sebagai komponen interaksi pengguna  
 - **Enkapsulasi** untuk navigasi aplikasi iventaris
 - **Polimorfism** untuk navigasi aplikasi iventaris
+- **Method Berparameter** untuk navigasi aplikasi iventaris
+- **Objek Dalam Class** untuk navigasi aplikasi iventaris
