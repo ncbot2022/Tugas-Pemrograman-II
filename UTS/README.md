@@ -3,9 +3,9 @@
 <br>Project saya buat berdasarkan penugasan UTS, saya membuat project dengan tema iventaris gudang A dan gudang B. project ini  dibangun dengan menggunakan unsur pemrogaram OOP dan GUI java netbeans 8.2. struktur pemrogaram memiliki unsur :<br>
 <br>
 **GUI JAVA NETBEANS**
-- **Containers** untuk tempat menampung komponen GUI  
-- **Controls** sebagai komponen interaksi pengguna  
-- **Menus** untuk navigasi aplikasi iventaris
+- **Containers** Komponen GUI untuk menampung dan mengatur komponen lain (JFrame, JPanel, ....).
+- **Controls** Komponen interaksi pengguna seperti tombol, input teks, dan checkbox (JButton, JTextField, ....).
+- **Menus** Komponen navigasi aplikasi inventaris untuk mengakses fitur (JMenuBar, JMenu, JMenuItem, ....).
 
 **OOP / Oject Oriantasi Programming**
 - **Inheritance (Pewarisan)** Konsep di mana class turunan mewarisi atribut dan method dari class induk.
