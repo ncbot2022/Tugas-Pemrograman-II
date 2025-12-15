@@ -13,6 +13,8 @@
 - **Polymorphism (Polimorfisme)** Konsep penggunaan method dengan nama yang sama tetapi memiliki perilaku atau implementasi yang berbeda.
 - **Method Berparameter** Method yang menerima satu atau lebih parameter sebagai nilai input.
 - **Objek dalam Class** Konsep penggunaan objek dari class lain di dalam sebuah class untuk mendukung fungsi program.
+- 
+<img width="636" height="1138" alt="ULM UTS drawio" src="https://github.com/user-attachments/assets/b0da796a-aaae-441a-942c-5e25525e3d2a" />
 
 <br><br>
 ## LINK YOUTUBE PENJELSAN & DEMONSTRASI :       --- On proses ---
