@@ -8,13 +8,12 @@
 - **Menus** untuk navigasi aplikasi iventaris
 
 **OOP / Oject Oriantasi Programming**
-- **Inheritance** untuk tempat menampung komponen GUI  
-- **Inheritance** sebagai komponen interaksi pengguna  
-- **Enkapsulasi** untuk navigasi aplikasi iventaris
-- **Polimorfism** untuk navigasi aplikasi iventaris
-- **Method Berparameter** untuk navigasi aplikasi iventaris
-- **Objek Dalam Class** untuk navigasi aplikasi iventaris
-  
+- **Inheritance (Pewarisan)** Konsep di mana class turunan mewarisi atribut dan method dari class induk.
+- **Encapsulation (Enkapsulasi)** Konsep pembungkusan data dan method dengan pengaturan akses (private, protected, public) untuk menjaga keamanan data.
+- **Polymorphism (Polimorfisme)** Konsep penggunaan method dengan nama yang sama tetapi memiliki perilaku atau implementasi yang berbeda.
+- **Method Berparameter** Method yang menerima satu atau lebih parameter sebagai nilai input.
+- **Objek dalam Class** Konsep penggunaan objek dari class lain di dalam sebuah class untuk mendukung fungsi program.
+
 <br><br>
 ## LINK YOUTUBE PENJELSAN & DEMONSTRASI :       --- On proses ---
 
