@@ -18,7 +18,7 @@
 ## LINK YOUTUBE PENJELSAN & DEMONSTRASI :       --- On proses ---
 
 <br><br>
-## HASil Dari GUI (Tampilan Frontend dan backand)
+## **Hasil GUI dari project IVENTARIS PRODUK**
 
 ### 1. Tampilan Awal Panel Login
 User memasukan nama dan password sesuai denga  nama dan password yang di setting pada method setter getter
