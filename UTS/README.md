@@ -16,7 +16,7 @@
 
 ## UML Diagram Konektivitas ##
 Menggambarkan hubungan antara class dengan class lain dalam konteks OOP
-<br>
+<br><br>
 <img width="636" height="1255" alt="ULM UTS drawio" src="https://github.com/user-attachments/assets/92d7432b-f055-4ff9-b01e-2e515b672764" />
 
 <br><br>
