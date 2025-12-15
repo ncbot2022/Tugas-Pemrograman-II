@@ -48,18 +48,12 @@ User dapat mengeluarkan kode pada gudang A ataupun B, untuk mengeluarkan produk 
 <img width="935" height="637" alt="image" src="https://github.com/user-attachments/assets/9d762b74-cc8e-421c-942c-3acaa8ca7ca3" />
 <img width="938" height="635" alt="image" src="https://github.com/user-attachments/assets/11207808-8ced-4b1e-a004-7262e3202a7c" />
 <br>
-### 6. Tampilan Produk Keluar
-User dapat mengeluarkan kode pada gudang A ataupun B, untuk mengeluarkan produk sistem menggunakan code unik dan nama barang (Code Unit atau nama produk tidak terdaftar ? maka gagal)
-<br>
-<img width="935" height="637" alt="image" src="https://github.com/user-attachments/assets/9d762b74-cc8e-421c-942c-3acaa8ca7ca3" />
-<img width="938" height="635" alt="image" src="https://github.com/user-attachments/assets/11207808-8ced-4b1e-a004-7262e3202a7c" />
-<br>
-### 7. Tampilan Report Total
+### 6. Tampilan Report Total
 User dapat melihat berapa banyak produk yang tersimpan pada gudang (Stok barang, harga, dan harga + pajak)
 <br>
 <img width="1125" height="633" alt="image" src="https://github.com/user-attachments/assets/d2500661-408e-4a9f-b978-9ccff455523c" />
 <br>
-### 8. Tampilan Report Total
+### 7. Tampilan Report Total
 User dapat melihat berapa banyak produk yang tersimpan pada gudang (Stok barang, harga, dan harga + pajak)
 <br>
 <img width="1125" height="633" alt="image" src="https://github.com/user-attachments/assets/d2500661-408e-4a9f-b978-9ccff455523c" />
