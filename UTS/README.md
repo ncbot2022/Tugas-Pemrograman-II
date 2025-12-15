@@ -55,12 +55,7 @@ User dapat melihat berapa banyak produk yang tersimpan pada gudang (Stok barang,
 <br>
 <img width="1125" height="633" alt="image" src="https://github.com/user-attachments/assets/d2500661-408e-4a9f-b978-9ccff455523c" />
 <br>
-### 7. Tampilan Report Total
-User dapat melihat berapa banyak produk yang tersimpan pada gudang (Stok barang, harga, dan harga + pajak)
-<br>
-<img width="1125" height="633" alt="image" src="https://github.com/user-attachments/assets/d2500661-408e-4a9f-b978-9ccff455523c" />
-<br>
-### 8. Tambahan
+### 7. Tambahan
 <br>
 <img width="167" height="643" alt="image" src="https://github.com/user-attachments/assets/4c8f5526-283f-4cdb-b8d2-60160cfda491" />
 <br>
