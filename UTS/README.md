@@ -14,7 +14,8 @@
 - **Method Berparameter** Method yang menerima satu atau lebih parameter sebagai nilai input.
 - **Objek dalam Class** Konsep penggunaan objek dari class lain di dalam sebuah class untuk mendukung fungsi program.
 
-## ULM DIAGRAM KONEKTIFITY ##
+## UML Diagram Konektivitas ##
+Menggambarkan hubungan antara class dengan class lain dalam konteks OOP
 <img width="636" height="1255" alt="ULM UTS drawio" src="https://github.com/user-attachments/assets/92d7432b-f055-4ff9-b01e-2e515b672764" />
 
 <br><br>
