@@ -15,7 +15,7 @@
 - **Objek dalam Class** Konsep penggunaan objek dari class lain di dalam sebuah class untuk mendukung fungsi program.
 
 ## ULM DIAGRAM KONEKTIFITY ##
-<img width="636" height="1138" alt="ULM UTS drawio" src="https://github.com/user-attachments/assets/b0da796a-aaae-441a-942c-5e25525e3d2a" />
+<img width="636" height="1255" alt="ULM UTS drawio" src="https://github.com/user-attachments/assets/92d7432b-f055-4ff9-b01e-2e515b672764" />
 
 <br><br>
 ## LINK YOUTUBE PENJELSAN & DEMONSTRASI :       --- On proses ---
